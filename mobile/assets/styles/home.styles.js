@@ -14,7 +14,7 @@ export const homeStyles = StyleSheet.create({
   },
   welcomeSection: {
     paddingHorizontal: 20,
-    paddingTop: 20,
+    paddingTop: 30,
     paddingBottom: 16,
     flexDirection: "row",
     alignItems: "center",
