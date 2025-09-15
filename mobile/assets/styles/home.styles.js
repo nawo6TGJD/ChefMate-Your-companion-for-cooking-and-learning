@@ -18,7 +18,7 @@ export const homeStyles = StyleSheet.create({
     paddingBottom: 16,
     flexDirection: "row",
     alignItems: "center",
-    justifyContent: "space-between",
+    justifyContent:"space-evenly",
   },
   welcomeText: {
     fontSize: 32,
