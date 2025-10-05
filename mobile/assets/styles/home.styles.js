@@ -2,7 +2,7 @@ import { StyleSheet, Dimensions } from "react-native";
 import { COLORS } from "../../constants/colors";
 
 const { width } = Dimensions.get("window");
-const cardWidth = (width - 48) / 2;
+const cardWidth = (width - 50) / 2;
 
 export const homeStyles = StyleSheet.create({
   container: {
