@@ -37,7 +37,7 @@ export const homeStyles = StyleSheet.create({
     shadowColor: COLORS.shadow,
     shadowOffset: {
       width: 0,
-      height: 12,
+      height: 10,
     },
     shadowOpacity: 0.2,
     shadowRadius: 16,
@@ -68,7 +68,7 @@ export const homeStyles = StyleSheet.create({
   featuredBadgeText: {
     color: COLORS.white,
     fontSize: 12,
-    fontWeight: "600",
+    fontWeight: "500",
   },
   featuredContent: {
     justifyContent: "flex-end",
