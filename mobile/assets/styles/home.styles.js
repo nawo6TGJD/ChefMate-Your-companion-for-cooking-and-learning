@@ -67,11 +67,11 @@ export const homeStyles = StyleSheet.create({
   },
   featuredBadgeText: {
     color: COLORS.white,
-    fontSize: 12,
+    fontSize: 18,
     fontWeight: "500",
   },
   featuredContent: {
-    justifyContent: "flex-end",
+    justifyContent: "flex-start",
   },
   featuredTitle: {
     fontSize: 24,
