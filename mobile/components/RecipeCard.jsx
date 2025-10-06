@@ -12,14 +12,14 @@ export default function RecipeCard({ recipe }) {
     <TouchableOpacity
       style={recipeCardStyles.container}
       onPress={() => router.push(`/recipe/${recipe.id}`)}
-      activeOpacity={0.8}
+      activeOpacity={0.5}
     >
       <View style={recipeCardStyles.imageContainer}>
         <Image
           source={{ uri: recipe.image }}
           style={recipeCardStyles.image}
           contentFit="cover"
-          transition={300}
+          transition={400}
         />
       </View>
 
