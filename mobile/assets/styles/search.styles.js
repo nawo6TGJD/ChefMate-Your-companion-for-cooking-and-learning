@@ -7,8 +7,8 @@ export const searchStyles = StyleSheet.create({
     backgroundColor: COLORS.background,
   },
   searchSection: {
-    paddingHorizontal: 16,
-    paddingTop: 16,
+    paddingHorizontal: 20,
+    paddingTop: 20,
   },
   searchContainer: {
     flexDirection: "row",
