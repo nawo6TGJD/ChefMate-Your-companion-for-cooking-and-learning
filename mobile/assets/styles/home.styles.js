@@ -84,7 +84,7 @@ export const homeStyles = StyleSheet.create({
   },
   featuredMeta: {
     flexDirection: "row",
-    gap: 16,
+    gap: 20,
   },
   metaItem: {
     flexDirection: "row",
